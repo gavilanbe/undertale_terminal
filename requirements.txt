@@ -1,0 +1,2 @@
+# Core game uses only the Python standard library.
+# Optional audio: pip install -r requirements-audio.txt
